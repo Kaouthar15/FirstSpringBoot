@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HelloWorldController {
 	private String message = "Hello World ! ";
-	private String username = "SpringBoot developer";
+	private String username = "SpringBoot Developer";
 	
 	@RequestMapping("/hello")
 	public String welcome(Map<String, Object> model) { 
