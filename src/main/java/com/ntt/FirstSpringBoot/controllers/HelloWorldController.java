@@ -1,4 +1,4 @@
-package com.ntt.FirstSpringBoot.controller;
+package com.ntt.FirstSpringBoot.controllers;
 
 import java.util.Map;
 
